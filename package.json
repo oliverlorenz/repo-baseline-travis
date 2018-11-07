@@ -22,7 +22,7 @@
       "name": "repo-baseline-file-available",
       "options": {
         "files": [
-          "travis.yml"
+          ".travis.yml"
         ]
       }
     }
