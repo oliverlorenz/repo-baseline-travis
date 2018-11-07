@@ -16,7 +16,7 @@
             "pattern": "https:\\/\\/api\\.codeclimate\\.com\\/v1\\/badges\\/[\\w]+\\/maintainability"
           },
           {
-            "path": "README.md",
+            "path": "README.md", 
             "pattern": "https:\\/\\/api\\.codeclimate\\.com\\/v1\\/badges\\/[\\w]+\\/test_coverage"
           }
         ]
