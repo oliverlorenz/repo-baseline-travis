@@ -13,12 +13,16 @@
         "files": [
           {
             "path": "README.md",
-            "pattern": "https:\\/\\/api\\.codeclimate\\.com\\/v1\\/badges\\/[\\w]+\\/maintainability"
-          },
-          {
-            "path": "README.md",
-            "pattern": "https:\\/\\/api\\.codeclimate\\.com\\/v1\\/badges\\/[\\w]+\\/test_coverage"
+            "pattern": "https:\\/\\/travis-ci\\.org\/[\\w-]+\/[\\w-]+\\.svg\\?branch="
           }
+        ]
+      }
+    },
+    {
+      "name": "repo-baseline-file-available",
+      "options": {
+        "files": [
+          "travis.yml"
         ]
       }
     }
