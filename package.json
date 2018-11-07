@@ -8,7 +8,7 @@
   },
   "repo-baseline": [
     {
-      "name": "repo-baseline-codeclimate-badges",
+      "name": "repo-baseline-file-contains",
       "options": {
         "files": [
           {
